@@ -1,4 +1,4 @@
-html{
+.html{
     color: solid darkgrey;
     text-align: center;
 }
@@ -11,15 +11,15 @@ head{
     font-style: italic;
 }
 
-body{
-    background-color: rgb(226, 65, 6);
+.body{
+    background-color: rgb(127, 236, 255);
     padding: 0;
     background-repeat: no-repeat;
     border-color: black;
 
 }
 
-button{
+#button{
     text-align: center;
     color: royalblue;
     padding: 8px;
